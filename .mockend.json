@@ -1,5 +1,5 @@
 {
-  "Monthes": {
+  "Month": {
     "year": "int",
     "month": "int",
     "countOfDays": "int"
