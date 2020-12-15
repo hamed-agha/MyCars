@@ -1,0 +1,7 @@
+{
+  "Monthes": {
+    "year": int,
+    "month": int,
+    "countOfDays": int
+  }
+}
